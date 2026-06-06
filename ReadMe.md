@@ -10,9 +10,6 @@ Proyecto Java - Gestión de Personas, Trabajadores y Direcciones
 
 ## `DESCRIPCIÓN` 
 
-```
------------
-```
 
 ```
 Este proyecto es una aplicación Java organizada en paquetes que modela
@@ -150,7 +147,6 @@ con mensajes personalizados.
 ## `FUNCIONALIDADES` 
 
 ```
----------------
 - Creación de trabajadores.
 ```
 
@@ -182,7 +178,6 @@ con mensajes personalizados.
 ## `VALIDACIONES IMPLEMENTADAS` 
 
 ```
---------------------------
 En la clase Direccion:
 ```
 
@@ -213,7 +208,6 @@ En la clase Trabajador:
 ## `EJECUCIÓN` 
 
 ```
----------
 La clase principal del proyecto es:
 ```
 
