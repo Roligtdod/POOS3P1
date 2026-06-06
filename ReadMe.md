@@ -126,7 +126,7 @@ direcciones.
 
 ```
 Util
-----
+------------
 Contiene clases de utilidad del proyecto.
 ```
 
@@ -225,10 +225,7 @@ public static void main(String[] args)
 
 ```
 REQUISITOS
-```
 
-```
-----------
 ```
 
 ```
@@ -263,9 +260,7 @@ Al ejecutar la aplicación, se muestra por consola:
 
 ## `MANEJO DE ERRORES` 
 
-```
------------------
-```
+
 
 ```
 La aplicación utiliza bloques try-catch para capturar excepciones durante
@@ -275,18 +270,11 @@ la ejecución y mostrar el mensaje de error correspondiente en consola.
 ## `AUTOR` 
 
 ```
------
-```
-
-```
 Maximiliano Pino
 ```
 
 ## `ESTADO DEL PROYECTO` 
 
-```
--------------------
-```
 
 ```
 Proyecto Java básico orientado a objetos, enfocado en el uso de clases,
