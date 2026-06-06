@@ -56,13 +56,7 @@ PAQUETES PRINCIPALES
 
 ```
 --------------------
-```
-
-```
 APP
-```
-
-```
 ---
 Contiene la clase principal del proyecto.
 ```
@@ -80,7 +74,7 @@ Responsabilidad:
 
 ```
 MODULE
-------
+
 Contiene las clases principales del modelo del proyecto.
 ```
 
