@@ -80,12 +80,13 @@ Clases:
 - Direccion
 - Persona
 - Trabajador
-Direccion:
-Representa una dirección con los siguientes datos:
-- País
+
 ```
 
 ```
+Direccion:
+Representa una dirección con los siguientes datos:
+- País
 - Ciudad
 - Calle
 - Número
@@ -114,11 +115,10 @@ Incluye validaciones para:
 - Formato de email inválido.
 ```
 
-```
-Persona:
-```
 
 ```
+Persona:
+
 Clase ubicada dentro del paquete MODULE. Es utilizada en la aplicación
 principal para representar personas y asociarlas con trabajadores y
 direcciones.
@@ -128,6 +128,7 @@ direcciones.
 Util
 ------------
 Contiene clases de utilidad del proyecto.
+-------------
 ```
 
 ```
@@ -259,7 +260,6 @@ Al ejecutar la aplicación, se muestra por consola:
 ```
 
 ## `MANEJO DE ERRORES` 
-
 
 
 ```
